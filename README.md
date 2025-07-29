@@ -123,7 +123,7 @@ Verilen tarih için yapılmış tüm girişleri döner.
 ![Tarih Getirme](images/belirlibitarihegoreverigetirme.png)
 
 ### Kullanıcıya Ait Verilerin Getirilmesi
-![Kullanıcı Verisi](images/userid10olankullanicinverigirisleri4.png)
+![Kullanıcı Verisi](images/userid1olankullanicinverigirisleri4.png)
 
 ### Tüm Kullanıcıları Listeleme
 ![Users Get All](images/users_getALL.png)
