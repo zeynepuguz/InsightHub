@@ -6,13 +6,20 @@ InsightHub, şirket çalışanlarının günlük veri girişlerini ve geri bildi
 
 ## 🚀 Özellikler
 
-- Kullanıcı girişi ve kayıt sistemi
-- Günlük veri giriş ekranı
-- Geri bildirim gönderme ve listeleme
-- Tarihe göre geri bildirim filtreleme
-- Kullanıcı profil ekranı
-- Yalnızca adminlerin tüm verileri görebildiği yönetim paneli
-- Swagger UI ile API test imkanı
+- Kullanıcı girişi ve kayıt sistemi  
+- Günlük veri giriş ekranı  
+- Geri bildirim gönderme ve listeleme  
+- Tarihe göre geri bildirim filtreleme  
+- Kullanıcı profil ekranı  
+- Yalnızca adminlerin tüm verileri görebildiği yönetim paneli  
+- Swagger UI ile API test imkanı  
+- Tarih aralığına göre veri filtreleme  
+- Belirli kullanıcıya göre veri listeleme  
+- Otomatik rol kontrolü ile admin/kullanıcı veri erişimi ayrımı  
+- Şifre güncelleme özelliği  
+- React Router ile dinamik sayfa yönlendirmeleri  
+- Material UI ile modern kullanıcı arayüzü  
+- API'ler Axios ile güvenli biçimde entegre edildi  
 
 ---
 
