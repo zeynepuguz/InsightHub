@@ -120,7 +120,7 @@ Verilen tarih için yapılmış tüm girişleri döner.
 ## 🧪 Test Edilmiş API Endpoint'leri (Görsel Destekli)
 
 ### Belirli Tarihe Göre Veri Getirme
-![Tarih Getirme](images/belirlibitarihegoreverigetirme.png)
+![Tarih Getirme](images/belirlibirtarihegoreverigetirme.png)
 
 ### Kullanıcıya Ait Verilerin Getirilmesi
 ![Kullanıcı Verisi](images/userid1olankullanicinverigirisleri4.png)
