@@ -47,9 +47,6 @@ InsightHub, şirket çalışanlarının günlük veri girişlerini ve geri bildi
 ### 📤 Geri Bildirim Gönderme
 ![Geri Bildirim Gönderme](images/gonderilengeribildirimler10.png)
 
-### 📅 Tarihe Göre Geri Bildirimleri Listeleme
-![Tarih Filtreleme](images/tarihegoregeribildirimlerigormek.png)
-
 ### 👤 Profil Sayfası
 ![Profil](images/profilpage11.png)
 
